@@ -1,0 +1,153 @@
+﻿[{
+    "id": "31",
+    "model": "Audi A3 III",
+    "type": "L",
+    "price": "1 200 000",
+    "year": "2016",
+    "image": "AudiA3III.jpg"
+},
+{
+    "id": "32",
+    "model": "Audi A5",
+    "type": "L",
+    "price": "1 200 000",
+    "year": "2012",
+    "image": "Audi_A5.jpg"
+},
+{
+    "id": "33",
+    "model": "Audi Q5",
+    "type": "L",
+    "price": "2 800 000",
+    "year": "2016",
+    "image": "AudiQ5.jpg"
+},
+{
+    "id": "34",
+    "model": "Audi Q7 I",
+    "type": "L",
+    "price": "825 000",
+    "year": "2007",
+    "image": "AudiQ7I.jpg"
+},
+{
+    "id": "35",
+    "model": "Lexus ES VI 250",
+    "type": "L",
+    "price": "1 315 000",
+    "year": "2010",
+    "image": "LexusESVI250.jpg"
+},
+{
+    "id": "36",
+    "model": "Lexus LX III",
+    "type": "L",
+    "price": "5 088 000",
+    "year": "2015",
+    "image": "LexusLXIII.jpg"
+},
+{
+    "id": "37",
+    "model": "Mercedes-Benz C-klasse IV",
+    "type": "L",
+    "price": "1 900 000",
+    "year": "2015",
+    "image": "Mercedes-BenzC-klasseIV.jpg"
+},
+{
+    "id": "38",
+    "model": "Mercedes-Benz GLE 300",
+    "type": "L",
+    "price": "5 100 000",
+    "year": "2016",
+    "image": "Mercedes-BenzGLE300.jpg"
+},
+{
+    "id": "39",
+    "model": "Hyundai HD78",
+    "type": "G",
+    "price": "2 300 000",
+    "year": "2016",
+    "image": "HyundaiHD78.jpg"
+},
+{
+    "id": "40",
+    "model": "Hyundai HD120",
+    "type": "G",
+    "price": "1 800 000",
+    "year": "2013",
+    "image": "HyundaiHD120.jpg"
+},
+{
+    "id": "41",
+    "model": "GAZ 2784",
+    "type": "G",
+    "price": "310 000",
+    "year": "2009",
+    "image": "GAZ2784.jpg"
+},
+{
+    "id": "42",
+    "model": "GAZ 3307",
+    "type": "G",
+    "price": "310 000",
+    "year": "2004",
+    "image": "GAZ3307.jpg"
+},
+{
+    "id": "43",
+    "model": "KamAZ 6511",
+    "type": "G",
+    "price": "1 990 000",
+    "year": "2013",
+    "image": "KamAZ6511.jpg"
+},
+{
+    "id": "44",
+    "model": "KamAZ 6520",
+    "type": "G",
+    "price": "5 000 000",
+    "year": "2016",
+    "image": "KamAZ6520.jpg"
+},
+{
+    "id": "45",
+    "model": "Ducati Monster 1100",
+    "type": "M",
+    "price": "600 000",
+    "year": "2012",
+    "image": "DucatiMonster1100.jpg"
+},
+{
+    "id": "46",
+    "model": "Harley-Davidson CVO",
+    "type": "M",
+    "price": "2 310 000",
+    "year": "2015",
+    "image": "Harley-DavidsonCVO.jpg"
+},
+{
+    "id": "47",
+    "model": "Honda CBR 600 RR",
+    "type": "M",
+    "price": "210 000",
+    "year": "2005",
+    "image": "HondaCBR600RR.jpg"
+},
+{
+    "id": "48",
+    "model": "Honda CBR 1000",
+    "type": "M",
+    "price": "439 000",
+    "year": "2008",
+    "image": "HondaCBR1000.jpg"
+},
+{
+    "id": "49",
+    "model": "Suzuki RM-Z 250",
+    "type": "M",
+    "price": "230 000",
+    "year": "2013",
+    "image": "SuzukiRM-Z250.jpg"
+}]
+
